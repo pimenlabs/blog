@@ -33,5 +33,9 @@ return [
     'sparkpost' => [
         'secret' => env('SPARKPOST_SECRET'),
     ],
+    
+    'unsplash' => [
+    'key' => env('UNSPLASH_ACCESS_KEY'),
+    ],
 
 ];
