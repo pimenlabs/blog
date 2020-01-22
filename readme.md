@@ -1,1 +1,1 @@
-Belajar buat blog
+Belajar buat blog menggunakan laravel
